@@ -1,4 +1,4 @@
-# Phaser3Angular9
+# Phaser3 & Angular9
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
